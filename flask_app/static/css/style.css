@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    margin: 10px auto;
+    width: 70%;
+}
+
+.subBtn{
+    background-color: teal;
+    padding: 2px 4px;
+    width: 70px;
+}
+
+.addressBar{
+    width: 300px;
+}
+
+.mainForm{
+    margin: 0 auto;
+    width: 350px;
+}
+
+header{
+    background-color: lightseagreen;
+    height: 90px;
+    margin: 0 auto;
+    width: 70%;
+}
+
+.flash{
+    color: red;
+}
